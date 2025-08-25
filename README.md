@@ -38,10 +38,3 @@
 <br>
 
 ---
-
-<h2 align="left">:heart: Let's Connect:</h2>
-<p align="left">
-    <a href="https://www.linkedin.com/in/sivramshastri" target="_blank">
-        <img src="https://img.shields.io/badge/-jamal332-blue?style=flat-square
-    </a>
-</p>
